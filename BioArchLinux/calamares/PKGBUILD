@@ -8,7 +8,7 @@ arch=('i686' 'x86_64')
 license=('GPL' 'LGPL2.1' 'LGPL3' 'BSD' 'MIT' 'CCPL')
 url="https://github.com/calamares/calamares"
 depends=('kconfig' 'kcoreaddons' 'kiconthemes' 'ki18n' 'kio' 'solid' 'yaml-cpp' 'kpmcore>=4.2.0'
-	'boost-libs' 'hwinfo' 'qt6-svg' 'polkit-qt6' 'gtk-update-icon-cache' 'plasma-framework5'
+	'boost-libs' 'hwinfo' 'qt6-svg' 'polkit-qt6' 'gtk-update-icon-cache'
 	'squashfs-tools' 'libpwquality' 'efibootmgr' 'icu'
 	'python' 'parted' 'appstream-qt' 'xorg-xhost')
 makedepends=(
